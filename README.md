@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Elnur. a Web Developer
+Hi 👋, I'm Elnur. an Skilled Backend developer with Some Frontend experience
 
 
 ## 🌐 Socials:

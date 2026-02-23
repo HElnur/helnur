@@ -49,14 +49,13 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Elnur%20Huseynov&section=header&reversal=false" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=400&lines=.NET+Backend+Developer;Enterprise+ERP+Integration;MS+SQL+Performance+Optimization;Clean+Architecture+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=650&lines=C%23+%7C+ASP.NET+Core+Web+API+%7C+SignalR;Clean+Architecture+%7C+CQRS+%7C+SOLID+Principles;MS+SQL+Server+%7C+EF+Core+%7C+T-SQL;Docker+%7C+Git+%7C+Agile+Workflow" />
 
 <br/><br/>
 

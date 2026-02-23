@@ -39,3 +39,27 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Elnur%20Huseynov&section=header&reversal=false" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=400&lines=.NET+Backend+Developer;Enterprise+ERP+Integration;MS+SQL+Performance+Optimization;Clean+Architecture+Engineer" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=eyyubgadirov&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>

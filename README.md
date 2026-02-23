@@ -72,3 +72,8 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 ⚡ Real-time & RESTful API development (Web API, SignalR) <br/>
 🐳 Dockerized environments & Agile team workflows <br/>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,docker,mysql,git,github,vscode,js,html,css&perline=6" />
+
+</div>

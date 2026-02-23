@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=500&lines=Senior+.NET+Backend+Engineer;Scalable+ASP.NET+Core+Architectures;High-Performance+SQL+%26+Query+Optimization;Clean+Architecture+%7C+CQRS+%7C+Domain-Driven+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=520&lines=.NET+Backend+Specialist;Building+Scalable+%26+Maintainable+Systems;SQL+Performance+Tuning+Expert;Clean+Code+Advocate+%7C+SOLID+%7C+CQRS" />
 
 <br/><br/>
 

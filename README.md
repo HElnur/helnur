@@ -59,6 +59,6 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=eyyubgadirov&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HElnur&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>

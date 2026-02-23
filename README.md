@@ -63,14 +63,12 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 </div>
 
----
 
 ## 💫 About Me
 
-🚀 Backend Engineer building scalable and maintainable systems with ASP.NET Core
-🏗️ Clean Architecture, CQRS & SOLID-driven application design
-🗄️ High-performance SQL Server solutions & advanced query optimization
-⚡ Real-time & RESTful API development (Web API, SignalR)
-🐳 Dockerized environments & Agile team workflows
+🚀 Backend Engineer building scalable and maintainable systems with ASP.NET Core <br/>
+🏗️ Clean Architecture, CQRS & SOLID-driven application design <br/>
+🗄️ High-performance SQL Server solutions & advanced query optimization <br/>
+⚡ Real-time & RESTful API development (Web API, SignalR) <br/>
+🐳 Dockerized environments & Agile team workflows <br/>
 
----

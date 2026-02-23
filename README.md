@@ -85,7 +85,6 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 <br/>
 
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -104,7 +103,9 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+
 ---
+
 <br/>
 <br/>
 

@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Elnur%20Huseynov&section=header&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20%20%20%20Elnur%20Huseynov%20%20%20%20&section=header&reversal=false" />
 
 <br/>
 

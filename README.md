@@ -116,3 +116,29 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HElnur&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=ffffff" />
 </div>
+
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/elnur-h%C3%BCseynov/">
+<img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:elnurhsynz@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HElnur">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+</div>

@@ -139,6 +139,6 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20%20%20%20Dream.%20Code.%20Achieve.%20%20%20%20&section=header&reversal=false" />
 
-</div>
+<br/>

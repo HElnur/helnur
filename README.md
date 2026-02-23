@@ -104,3 +104,15 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+
+<br/>
+<br/>
+
+<div align="center">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HElnur&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HElnur&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=ffffff" />
+</div>

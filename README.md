@@ -62,3 +62,15 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 <img src="https://komarev.com/ghpvc/?username=HElnur&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+
+---
+
+## 💫 About Me
+
+🚀 Backend Engineer building scalable and maintainable systems with ASP.NET Core
+🏗️ Clean Architecture, CQRS & SOLID-driven application design
+🗄️ High-performance SQL Server solutions & advanced query optimization
+⚡ Real-time & RESTful API development (Web API, SignalR)
+🐳 Dockerized environments & Agile team workflows
+
+---

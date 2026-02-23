@@ -121,12 +121,6 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 
 
 <div align="center">
-  <img src="https://github.com/HElnur/HElnur/blob/output/github-contribution-grid-gradient.svg" />
-</div>
-
-
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/elnur-h%C3%BCseynov/">
 <img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>

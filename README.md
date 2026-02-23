@@ -71,9 +71,36 @@ src="https://img.shields.io/github/followers/helnur?logo=github&style=for-the-ba
 🗄️ High-performance SQL Server solutions & advanced query optimization <br/>
 ⚡ Real-time & RESTful API development (Web API, SignalR) <br/>
 🐳 Dockerized environments & Agile team workflows <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,docker,mysql,git,github,vscode,js,html,css&perline=6" />
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/T--SQL-003B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
